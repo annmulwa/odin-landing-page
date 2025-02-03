@@ -1,1 +1,1 @@
-Creating a mini website.
+Creating a mini website
